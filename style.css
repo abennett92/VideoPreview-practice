@@ -125,6 +125,7 @@ body {
 }
 
 .col-l video {
-    height: 480px;
-    width: 768px;
+    height: 400px;
+    width: 720px;
+    margin-bottom: 10px;
 }
